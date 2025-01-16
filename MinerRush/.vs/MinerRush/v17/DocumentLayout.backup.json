@@ -1,0 +1,827 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|d:\\unity\\\u6316\u5B9D\u53F7\\minerrush\\assets\\minerrush\\scripts\\cebianlanmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|solutionrelative:assets\\minerrush\\scripts\\cebianlanmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|d:\\unity\\\u6316\u5B9D\u53F7\\minerrush\\assets\\minerrush\\scripts\\system\\swipeinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|solutionrelative:assets\\minerrush\\scripts\\system\\swipeinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\assets\\minerrush\\scripts\\system\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|solutionrelative:assets\\minerrush\\scripts\\system\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|d:\\unity\\\u6316\u5B9D\u53F7\\minerrush\\assets\\minerrush\\scripts\\system\\sharecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|solutionrelative:assets\\minerrush\\scripts\\system\\sharecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|d:\\unity\\\u6316\u5B9D\u53F7\\minerrush\\assets\\minerrush\\scripts\\system\\scenescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|solutionrelative:assets\\minerrush\\scripts\\system\\scenescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|d:\\unity\\\u6316\u5B9D\u53F7\\minerrush\\assets\\minerrush\\scripts\\system\\rateuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|solutionrelative:assets\\minerrush\\scripts\\system\\rateuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\assets\\minerrush\\scripts\\system\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|solutionrelative:assets\\minerrush\\scripts\\system\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|d:\\unity\\\u6316\u5B9D\u53F7\\minerrush\\assets\\minerrush\\scripts\\system\\values\\counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|solutionrelative:assets\\minerrush\\scripts\\system\\values\\counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\assets\\minerrush\\scripts\\system\\destroyaftertime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|solutionrelative:assets\\minerrush\\scripts\\system\\destroyaftertime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|d:\\unity\\\u6316\u5B9D\u53F7\\minerrush\\assets\\minerrush\\scripts\\system\\customplayerprefs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|solutionrelative:assets\\minerrush\\scripts\\system\\customplayerprefs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|d:\\unity\\\u6316\u5B9D\u53F7\\minerrush\\assets\\minerrush\\scripts\\system\\values\\fromtoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|solutionrelative:assets\\minerrush\\scripts\\system\\values\\fromtoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|d:\\unity\\\u6316\u5B9D\u53F7\\minerrush\\assets\\minerrush\\scripts\\system\\values\\fromtofloat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|solutionrelative:assets\\minerrush\\scripts\\system\\values\\fromtofloat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|d:\\unity\\\u6316\u5B9D\u53F7\\minerrush\\assets\\minerrush\\scripts\\system\\settings\\settingsinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|solutionrelative:assets\\minerrush\\scripts\\system\\settings\\settingsinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\assets\\minerrush\\scripts\\system\\settings\\settingsglobal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|solutionrelative:assets\\minerrush\\scripts\\system\\settings\\settingsglobal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|d:\\unity\\\u6316\u5B9D\u53F7\\minerrush\\assets\\minerrush\\scripts\\system\\leaderboard\\leaderboardplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|solutionrelative:assets\\minerrush\\scripts\\system\\leaderboard\\leaderboardplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|d:\\unity\\\u6316\u5B9D\u53F7\\minerrush\\assets\\minerrush\\scripts\\system\\leaderboard\\leaderboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|solutionrelative:assets\\minerrush\\scripts\\system\\leaderboard\\leaderboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|d:\\unity\\\u6316\u5B9D\u53F7\\minerrush\\assets\\minerrush\\scripts\\system\\leaderboard\\gamecenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|solutionrelative:assets\\minerrush\\scripts\\system\\leaderboard\\gamecenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|d:\\unity\\\u6316\u5B9D\u53F7\\minerrush\\assets\\minerrush\\scripts\\system\\audio\\soundscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|solutionrelative:assets\\minerrush\\scripts\\system\\audio\\soundscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|d:\\unity\\\u6316\u5B9D\u53F7\\minerrush\\assets\\minerrush\\scripts\\system\\audio\\soundplayinginterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|solutionrelative:assets\\minerrush\\scripts\\system\\audio\\soundplayinginterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|d:\\unity\\\u6316\u5B9D\u53F7\\minerrush\\assets\\minerrush\\scripts\\system\\audio\\soundplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|solutionrelative:assets\\minerrush\\scripts\\system\\audio\\soundplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|d:\\unity\\\u6316\u5B9D\u53F7\\minerrush\\assets\\minerrush\\scripts\\system\\audio\\musicplayinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|solutionrelative:assets\\minerrush\\scripts\\system\\audio\\musicplayinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|d:\\unity\\\u6316\u5B9D\u53F7\\minerrush\\assets\\minerrush\\scripts\\system\\audio\\musiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|solutionrelative:assets\\minerrush\\scripts\\system\\audio\\musiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\assets\\minerrush\\scripts\\interface\\indicatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|solutionrelative:assets\\minerrush\\scripts\\interface\\indicatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\assets\\minerrush\\scripts\\interface\\imagedevicemanagerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|solutionrelative:assets\\minerrush\\scripts\\interface\\imagedevicemanagerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|d:\\unity\\\u6316\u5B9D\u53F7\\minerrush\\assets\\minerrush\\scripts\\interface\\endgamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|solutionrelative:assets\\minerrush\\scripts\\interface\\endgamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|d:\\unity\\\u6316\u5B9D\u53F7\\minerrush\\assets\\minerrush\\scripts\\interface\\canvasscalerbyscreensize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|solutionrelative:assets\\minerrush\\scripts\\interface\\canvasscalerbyscreensize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|d:\\unity\\\u6316\u5B9D\u53F7\\minerrush\\assets\\minerrush\\scripts\\interface\\animationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|solutionrelative:assets\\minerrush\\scripts\\interface\\animationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\assets\\minerrush\\scripts\\interface\\allertmessagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|solutionrelative:assets\\minerrush\\scripts\\interface\\allertmessagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|d:\\unity\\\u6316\u5B9D\u53F7\\minerrush\\assets\\minerrush\\scripts\\interface\\ui components\\uiswitch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|solutionrelative:assets\\minerrush\\scripts\\interface\\ui components\\uiswitch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\assets\\minerrush\\scripts\\interface\\ui components\\skinstoreindicator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|solutionrelative:assets\\minerrush\\scripts\\interface\\ui components\\skinstoreindicator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|d:\\unity\\\u6316\u5B9D\u53F7\\minerrush\\assets\\minerrush\\scripts\\interface\\ui components\\cellleaderboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|solutionrelative:assets\\minerrush\\scripts\\interface\\ui components\\cellleaderboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\assets\\minerrush\\scripts\\gameplay\\pausecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|solutionrelative:assets\\minerrush\\scripts\\gameplay\\pausecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|d:\\unity\\\u6316\u5B9D\u53F7\\minerrush\\assets\\minerrush\\scripts\\gameplay\\generator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|solutionrelative:assets\\minerrush\\scripts\\gameplay\\generator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|d:\\unity\\\u6316\u5B9D\u53F7\\minerrush\\assets\\minerrush\\scripts\\gameplay\\gamevalues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|solutionrelative:assets\\minerrush\\scripts\\gameplay\\gamevalues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|d:\\unity\\\u6316\u5B9D\u53F7\\minerrush\\assets\\minerrush\\scripts\\gameplay\\gamevalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|solutionrelative:assets\\minerrush\\scripts\\gameplay\\gamevalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|d:\\unity\\\u6316\u5B9D\u53F7\\minerrush\\assets\\minerrush\\scripts\\gameplay\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|solutionrelative:assets\\minerrush\\scripts\\gameplay\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|d:\\unity\\\u6316\u5B9D\u53F7\\minerrush\\assets\\minerrush\\scripts\\gameplay\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|solutionrelative:assets\\minerrush\\scripts\\gameplay\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|d:\\unity\\\u6316\u5B9D\u53F7\\minerrush\\assets\\minerrush\\scripts\\gameplay\\skin\\skinholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|solutionrelative:assets\\minerrush\\scripts\\gameplay\\skin\\skinholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|d:\\unity\\\u6316\u5B9D\u53F7\\minerrush\\assets\\minerrush\\scripts\\gameplay\\skin\\skin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|solutionrelative:assets\\minerrush\\scripts\\gameplay\\skin\\skin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|d:\\unity\\\u6316\u5B9D\u53F7\\minerrush\\assets\\minerrush\\scripts\\gameplay\\objects\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|solutionrelative:assets\\minerrush\\scripts\\gameplay\\objects\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|d:\\unity\\\u6316\u5B9D\u53F7\\minerrush\\assets\\minerrush\\scripts\\gameplay\\objects\\customgameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|solutionrelative:assets\\minerrush\\scripts\\gameplay\\objects\\customgameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|d:\\unity\\\u6316\u5B9D\u53F7\\minerrush\\assets\\minerrush\\scripts\\gameplay\\objects\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|solutionrelative:assets\\minerrush\\scripts\\gameplay\\objects\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|d:\\unity\\\u6316\u5B9D\u53F7\\minerrush\\assets\\minerrush\\scripts\\gameplay\\objects\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|solutionrelative:assets\\minerrush\\scripts\\gameplay\\objects\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\assets\\minerrush\\scripts\\gameplay\\objects\\player\\playerskinloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|solutionrelative:assets\\minerrush\\scripts\\gameplay\\objects\\player\\playerskinloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\assets\\minerrush\\scripts\\gameplay\\objects\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE4D632E-9DDC-55D0-2FE7-9C57DDAB18CE}|Assembly-CSharp.csproj|solutionrelative:assets\\minerrush\\scripts\\gameplay\\objects\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2025-01\\Ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2025-01\\ADManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2025-01\\CebianlanManager(1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FromToInt.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\System\\Values\\FromToInt.cs",
+              "RelativeDocumentMoniker": "Assets\\minerRush\\Scripts\\System\\Values\\FromToInt.cs",
+              "ToolTip": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\System\\Values\\FromToInt.cs",
+              "RelativeToolTip": "Assets\\minerRush\\Scripts\\System\\Values\\FromToInt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T09:37:53.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SwipeInput.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\System\\SwipeInput.cs",
+              "RelativeDocumentMoniker": "Assets\\minerRush\\Scripts\\System\\SwipeInput.cs",
+              "ToolTip": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\System\\SwipeInput.cs",
+              "RelativeToolTip": "Assets\\minerRush\\Scripts\\System\\SwipeInput.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAcwKoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T09:39:02.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShareController.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\System\\ShareController.cs",
+              "RelativeDocumentMoniker": "Assets\\minerRush\\Scripts\\System\\ShareController.cs",
+              "ToolTip": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\System\\ShareController.cs",
+              "RelativeToolTip": "Assets\\minerRush\\Scripts\\System\\ShareController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T09:38:15.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ScenesController.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\System\\ScenesController.cs",
+              "RelativeDocumentMoniker": "Assets\\minerRush\\Scripts\\System\\ScenesController.cs",
+              "ToolTip": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\System\\ScenesController.cs",
+              "RelativeToolTip": "Assets\\minerRush\\Scripts\\System\\ScenesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T09:38:12.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RateUsController.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\System\\RateUsController.cs",
+              "RelativeDocumentMoniker": "Assets\\minerRush\\Scripts\\System\\RateUsController.cs",
+              "ToolTip": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\System\\RateUsController.cs",
+              "RelativeToolTip": "Assets\\minerRush\\Scripts\\System\\RateUsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T09:38:09.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomPlayerPrefs.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\System\\CustomPlayerPrefs.cs",
+              "RelativeDocumentMoniker": "Assets\\minerRush\\Scripts\\System\\CustomPlayerPrefs.cs",
+              "ToolTip": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\System\\CustomPlayerPrefs.cs",
+              "RelativeToolTip": "Assets\\minerRush\\Scripts\\System\\CustomPlayerPrefs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T09:37:56.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Counter.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\System\\Values\\Counter.cs",
+              "RelativeDocumentMoniker": "Assets\\minerRush\\Scripts\\System\\Values\\Counter.cs",
+              "ToolTip": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\System\\Values\\Counter.cs",
+              "RelativeToolTip": "Assets\\minerRush\\Scripts\\System\\Values\\Counter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T09:37:48.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StoreController.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\System\\StoreController.cs",
+              "RelativeDocumentMoniker": "Assets\\minerRush\\Scripts\\System\\StoreController.cs",
+              "ToolTip": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\System\\StoreController.cs",
+              "RelativeToolTip": "Assets\\minerRush\\Scripts\\System\\StoreController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T06:46:06.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CebianlanManager.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\CebianlanManager.cs",
+              "RelativeDocumentMoniker": "Assets\\minerRush\\Scripts\\CebianlanManager.cs",
+              "ToolTip": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\CebianlanManager.cs",
+              "RelativeToolTip": "Assets\\minerRush\\Scripts\\CebianlanManager.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAYwI4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T09:05:22.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FromToFloat.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\System\\Values\\FromToFloat.cs",
+              "RelativeDocumentMoniker": "Assets\\minerRush\\Scripts\\System\\Values\\FromToFloat.cs",
+              "ToolTip": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\System\\Values\\FromToFloat.cs",
+              "RelativeToolTip": "Assets\\minerRush\\Scripts\\System\\Values\\FromToFloat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T09:37:51.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NotificationController.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\System\\NotificationController.cs",
+              "RelativeDocumentMoniker": "Assets\\minerRush\\Scripts\\System\\NotificationController.cs",
+              "ToolTip": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\System\\NotificationController.cs",
+              "RelativeToolTip": "Assets\\minerRush\\Scripts\\System\\NotificationController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T06:04:02.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SettingsInit.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\System\\Settings\\SettingsInit.cs",
+              "RelativeDocumentMoniker": "Assets\\minerRush\\Scripts\\System\\Settings\\SettingsInit.cs",
+              "ToolTip": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\System\\Settings\\SettingsInit.cs",
+              "RelativeToolTip": "Assets\\minerRush\\Scripts\\System\\Settings\\SettingsInit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T09:37:46.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LeaderboardPlayer.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\System\\Leaderboard\\LeaderboardPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\minerRush\\Scripts\\System\\Leaderboard\\LeaderboardPlayer.cs",
+              "ToolTip": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\System\\Leaderboard\\LeaderboardPlayer.cs",
+              "RelativeToolTip": "Assets\\minerRush\\Scripts\\System\\Leaderboard\\LeaderboardPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T09:37:41.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LeaderboardController.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\System\\Leaderboard\\LeaderboardController.cs",
+              "RelativeDocumentMoniker": "Assets\\minerRush\\Scripts\\System\\Leaderboard\\LeaderboardController.cs",
+              "ToolTip": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\System\\Leaderboard\\LeaderboardController.cs",
+              "RelativeToolTip": "Assets\\minerRush\\Scripts\\System\\Leaderboard\\LeaderboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T09:37:39.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DestroyAfterTime.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\System\\DestroyAfterTime.cs",
+              "RelativeDocumentMoniker": "Assets\\minerRush\\Scripts\\System\\DestroyAfterTime.cs",
+              "ToolTip": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\System\\DestroyAfterTime.cs",
+              "RelativeToolTip": "Assets\\minerRush\\Scripts\\System\\DestroyAfterTime.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T06:54:25.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GameCenter.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\System\\Leaderboard\\GameCenter.cs",
+              "RelativeDocumentMoniker": "Assets\\minerRush\\Scripts\\System\\Leaderboard\\GameCenter.cs",
+              "ToolTip": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\System\\Leaderboard\\GameCenter.cs",
+              "RelativeToolTip": "Assets\\minerRush\\Scripts\\System\\Leaderboard\\GameCenter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T09:37:36.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SoundsController.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\System\\Audio\\SoundsController.cs",
+              "RelativeDocumentMoniker": "Assets\\minerRush\\Scripts\\System\\Audio\\SoundsController.cs",
+              "ToolTip": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\System\\Audio\\SoundsController.cs",
+              "RelativeToolTip": "Assets\\minerRush\\Scripts\\System\\Audio\\SoundsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T09:37:33.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SoundPlayingInterface.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\System\\Audio\\SoundPlayingInterface.cs",
+              "RelativeDocumentMoniker": "Assets\\minerRush\\Scripts\\System\\Audio\\SoundPlayingInterface.cs",
+              "ToolTip": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\System\\Audio\\SoundPlayingInterface.cs",
+              "RelativeToolTip": "Assets\\minerRush\\Scripts\\System\\Audio\\SoundPlayingInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T09:37:31.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SoundPlayer.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\System\\Audio\\SoundPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\minerRush\\Scripts\\System\\Audio\\SoundPlayer.cs",
+              "ToolTip": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\System\\Audio\\SoundPlayer.cs",
+              "RelativeToolTip": "Assets\\minerRush\\Scripts\\System\\Audio\\SoundPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T09:37:28.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MusicPlayInterface.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\System\\Audio\\MusicPlayInterface.cs",
+              "RelativeDocumentMoniker": "Assets\\minerRush\\Scripts\\System\\Audio\\MusicPlayInterface.cs",
+              "ToolTip": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\System\\Audio\\MusicPlayInterface.cs",
+              "RelativeToolTip": "Assets\\minerRush\\Scripts\\System\\Audio\\MusicPlayInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T09:37:26.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SettingsGlobal.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\System\\Settings\\SettingsGlobal.cs",
+              "RelativeDocumentMoniker": "Assets\\minerRush\\Scripts\\System\\Settings\\SettingsGlobal.cs",
+              "ToolTip": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\System\\Settings\\SettingsGlobal.cs",
+              "RelativeToolTip": "Assets\\minerRush\\Scripts\\System\\Settings\\SettingsGlobal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T06:54:36.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MusicController.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\System\\Audio\\MusicController.cs",
+              "RelativeDocumentMoniker": "Assets\\minerRush\\Scripts\\System\\Audio\\MusicController.cs",
+              "ToolTip": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\System\\Audio\\MusicController.cs",
+              "RelativeToolTip": "Assets\\minerRush\\Scripts\\System\\Audio\\MusicController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAYwEQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T09:37:13.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CanvasScalerByScreenSize.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\Interface\\CanvasScalerByScreenSize.cs",
+              "RelativeDocumentMoniker": "Assets\\minerRush\\Scripts\\Interface\\CanvasScalerByScreenSize.cs",
+              "ToolTip": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\Interface\\CanvasScalerByScreenSize.cs",
+              "RelativeToolTip": "Assets\\minerRush\\Scripts\\Interface\\CanvasScalerByScreenSize.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAA1wEwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T09:36:32.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AnimationController.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\Interface\\AnimationController.cs",
+              "RelativeDocumentMoniker": "Assets\\minerRush\\Scripts\\Interface\\AnimationController.cs",
+              "ToolTip": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\Interface\\AnimationController.cs",
+              "RelativeToolTip": "Assets\\minerRush\\Scripts\\Interface\\AnimationController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAUwEkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T09:36:20.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UISwitch.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\Interface\\UI Components\\UISwitch.cs",
+              "RelativeDocumentMoniker": "Assets\\minerRush\\Scripts\\Interface\\UI Components\\UISwitch.cs",
+              "ToolTip": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\Interface\\UI Components\\UISwitch.cs",
+              "RelativeToolTip": "Assets\\minerRush\\Scripts\\Interface\\UI Components\\UISwitch.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAUwIQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T09:35:56.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CellLeaderboard.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\Interface\\UI Components\\CellLeaderboard.cs",
+              "RelativeDocumentMoniker": "Assets\\minerRush\\Scripts\\Interface\\UI Components\\CellLeaderboard.cs",
+              "ToolTip": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\Interface\\UI Components\\CellLeaderboard.cs",
+              "RelativeToolTip": "Assets\\minerRush\\Scripts\\Interface\\UI Components\\CellLeaderboard.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAUwDEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T09:35:34.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Generator.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\Gameplay\\Generator.cs",
+              "RelativeDocumentMoniker": "Assets\\minerRush\\Scripts\\Gameplay\\Generator.cs",
+              "ToolTip": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\Gameplay\\Generator.cs",
+              "RelativeToolTip": "Assets\\minerRush\\Scripts\\Gameplay\\Generator.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwKUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T09:35:12.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EndGameController.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\Interface\\EndGameController.cs",
+              "RelativeDocumentMoniker": "Assets\\minerRush\\Scripts\\Interface\\EndGameController.cs",
+              "ToolTip": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\Interface\\EndGameController.cs",
+              "RelativeToolTip": "Assets\\minerRush\\Scripts\\Interface\\EndGameController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAYwFkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T09:23:07.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ImageDeviceManagerUI.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\Interface\\ImageDeviceManagerUI.cs",
+              "RelativeDocumentMoniker": "Assets\\minerRush\\Scripts\\Interface\\ImageDeviceManagerUI.cs",
+              "ToolTip": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\Interface\\ImageDeviceManagerUI.cs",
+              "RelativeToolTip": "Assets\\minerRush\\Scripts\\Interface\\ImageDeviceManagerUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T06:54:29.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IndicatorController.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\Interface\\IndicatorController.cs",
+              "RelativeDocumentMoniker": "Assets\\minerRush\\Scripts\\Interface\\IndicatorController.cs",
+              "ToolTip": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\Interface\\IndicatorController.cs",
+              "RelativeToolTip": "Assets\\minerRush\\Scripts\\Interface\\IndicatorController.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAA0wHUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T06:48:47.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "GameValues.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\Gameplay\\GameValues.cs",
+              "RelativeDocumentMoniker": "Assets\\minerRush\\Scripts\\Gameplay\\GameValues.cs",
+              "ToolTip": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\Gameplay\\GameValues.cs",
+              "RelativeToolTip": "Assets\\minerRush\\Scripts\\Gameplay\\GameValues.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwEQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T09:35:06.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "GameValue.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\Gameplay\\GameValue.cs",
+              "RelativeDocumentMoniker": "Assets\\minerRush\\Scripts\\Gameplay\\GameValue.cs",
+              "ToolTip": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\Gameplay\\GameValue.cs",
+              "RelativeToolTip": "Assets\\minerRush\\Scripts\\Gameplay\\GameValue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T09:35:01.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\Gameplay\\GameController.cs",
+              "RelativeDocumentMoniker": "Assets\\minerRush\\Scripts\\Gameplay\\GameController.cs",
+              "ToolTip": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\Gameplay\\GameController.cs",
+              "RelativeToolTip": "Assets\\minerRush\\Scripts\\Gameplay\\GameController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwK0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T09:34:54.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\Gameplay\\CameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\minerRush\\Scripts\\Gameplay\\CameraController.cs",
+              "ToolTip": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\Gameplay\\CameraController.cs",
+              "RelativeToolTip": "Assets\\minerRush\\Scripts\\Gameplay\\CameraController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAcwE0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T09:34:48.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "SkinHolder.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\Gameplay\\Skin\\SkinHolder.cs",
+              "RelativeDocumentMoniker": "Assets\\minerRush\\Scripts\\Gameplay\\Skin\\SkinHolder.cs",
+              "ToolTip": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\Gameplay\\Skin\\SkinHolder.cs",
+              "RelativeToolTip": "Assets\\minerRush\\Scripts\\Gameplay\\Skin\\SkinHolder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T09:34:43.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AllertMessageController.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\Interface\\AllertMessageController.cs",
+              "RelativeDocumentMoniker": "Assets\\minerRush\\Scripts\\Interface\\AllertMessageController.cs",
+              "ToolTip": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\Interface\\AllertMessageController.cs",
+              "RelativeToolTip": "Assets\\minerRush\\Scripts\\Interface\\AllertMessageController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAYwDUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T06:37:02.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Skin.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\Gameplay\\Skin\\Skin.cs",
+              "RelativeDocumentMoniker": "Assets\\minerRush\\Scripts\\Gameplay\\Skin\\Skin.cs",
+              "ToolTip": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\Gameplay\\Skin\\Skin.cs",
+              "RelativeToolTip": "Assets\\minerRush\\Scripts\\Gameplay\\Skin\\Skin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T09:34:35.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\Gameplay\\Objects\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\minerRush\\Scripts\\Gameplay\\Objects\\Enemy.cs",
+              "ToolTip": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\Gameplay\\Objects\\Enemy.cs",
+              "RelativeToolTip": "Assets\\minerRush\\Scripts\\Gameplay\\Objects\\Enemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T09:34:29.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SkinStoreIndicator.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\Interface\\UI Components\\SkinStoreIndicator.cs",
+              "RelativeDocumentMoniker": "Assets\\minerRush\\Scripts\\Interface\\UI Components\\SkinStoreIndicator.cs",
+              "ToolTip": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\Interface\\UI Components\\SkinStoreIndicator.cs",
+              "RelativeToolTip": "Assets\\minerRush\\Scripts\\Interface\\UI Components\\SkinStoreIndicator.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAYwMoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T06:55:43.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CustomGameObject.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\Gameplay\\Objects\\CustomGameObject.cs",
+              "RelativeDocumentMoniker": "Assets\\minerRush\\Scripts\\Gameplay\\Objects\\CustomGameObject.cs",
+              "ToolTip": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\Gameplay\\Objects\\CustomGameObject.cs",
+              "RelativeToolTip": "Assets\\minerRush\\Scripts\\Gameplay\\Objects\\CustomGameObject.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwHEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T09:34:16.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PauseController.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\Gameplay\\PauseController.cs",
+              "RelativeDocumentMoniker": "Assets\\minerRush\\Scripts\\Gameplay\\PauseController.cs",
+              "ToolTip": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\Gameplay\\PauseController.cs",
+              "RelativeToolTip": "Assets\\minerRush\\Scripts\\Gameplay\\PauseController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T07:57:10.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Coin.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\Gameplay\\Objects\\Coin.cs",
+              "RelativeDocumentMoniker": "Assets\\minerRush\\Scripts\\Gameplay\\Objects\\Coin.cs",
+              "ToolTip": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\Gameplay\\Objects\\Coin.cs",
+              "RelativeToolTip": "Assets\\minerRush\\Scripts\\Gameplay\\Objects\\Coin.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T09:34:08.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Block.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\Gameplay\\Objects\\Block.cs",
+              "RelativeDocumentMoniker": "Assets\\minerRush\\Scripts\\Gameplay\\Objects\\Block.cs",
+              "ToolTip": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\Gameplay\\Objects\\Block.cs",
+              "RelativeToolTip": "Assets\\minerRush\\Scripts\\Gameplay\\Objects\\Block.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwG8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T09:33:19.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Ball.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2025-01\\Ball.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2025-01\\Ball.cs [\u53EA\u8BFB]",
+              "ViewState": "AgIAAEgAAAAAAAAAAADwv10AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T09:19:52.566Z",
+              "EditorCaption": " [\u53EA\u8BFB]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ADManager.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2025-01\\ADManager.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2025-01\\ADManager.cs [\u53EA\u8BFB]",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAAAGUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T09:17:38.209Z",
+              "EditorCaption": " [\u53EA\u8BFB]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "CebianlanManager(1).cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2025-01\\CebianlanManager(1).cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\WeChat Files\\wxid_9teq3zcmdt6m22\\FileStorage\\File\\2025-01\\CebianlanManager(1).cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T09:06:47.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\Gameplay\\Objects\\Player\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\minerRush\\Scripts\\Gameplay\\Objects\\Player\\Player.cs",
+              "ToolTip": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\Gameplay\\Objects\\Player\\Player.cs",
+              "RelativeToolTip": "Assets\\minerRush\\Scripts\\Gameplay\\Objects\\Player\\Player.cs",
+              "ViewState": "AgIAAAsBAAAAAAAAAAAYwCoBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T05:50:22.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "PlayerSkinLoader.cs",
+              "DocumentMoniker": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\Gameplay\\Objects\\Player\\PlayerSkinLoader.cs",
+              "RelativeDocumentMoniker": "Assets\\minerRush\\Scripts\\Gameplay\\Objects\\Player\\PlayerSkinLoader.cs",
+              "ToolTip": "D:\\Unity\\\u6316\u5B9D\u53F7\\MinerRush\\Assets\\minerRush\\Scripts\\Gameplay\\Objects\\Player\\PlayerSkinLoader.cs",
+              "RelativeToolTip": "Assets\\minerRush\\Scripts\\Gameplay\\Objects\\Player\\PlayerSkinLoader.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAYwDcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T06:54:30.684Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

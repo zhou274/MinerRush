@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/minerRush/Scenes/LaunchScene.unity
+    guid: 9bce5405b0dc24394ac80843a5a0ddef
+  - enabled: 1
+    path: Assets/minerRush/Scenes/MenuScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/minerRush/Scenes/GameScene.unity
+    guid: ac12f87dda1694c719bd68534ec358f7
+  - enabled: 1
+    path: Assets/minerRush/Scenes/GameOverScene.unity
+    guid: 09a897027473b4af2b5285e5209c132e
+  - enabled: 1
+    path: Assets/minerRush/Scenes/SettingsScene.unity
+    guid: a44ad9aac4310480db91b8ce73384852
+  - enabled: 1
+    path: Assets/minerRush/Scenes/StoreScene.unity
+    guid: 21b808cb39f424f24a3758873b145b7a
+  - enabled: 1
+    path: Assets/minerRush/Scenes/TutorialScene.unity
+    guid: d1a20a157a0c04f4fbc1388e737ea09c
+  m_configObjects: {}
