@@ -100,14 +100,7 @@ namespace TinyStudio
             CustomPlayerPrefs.SetBool("_isGameWin", false);
             particleSystemExplosion.Play();
             gameController.GameOver();
-            ShowInterstitialAd("1lcaf5895d5l1293dc",
-            () => {
-                Debug.LogError("--插屏广告完成--");
-
-            },
-            (it, str) => {
-                Debug.LogError("Error->" + str);
-            });
+            
         }
         void Win()
         {
@@ -148,6 +141,14 @@ namespace TinyStudio
                                     Time.timeScale = 0;
                                     GameOverPanel.SetActive(true);
                                     //Kill();
+                                    ShowInterstitialAd("1lcaf5895d5l1293dc",
+            () => {
+                Debug.LogError("--插屏广告完成--");
+
+            },
+            (it, str) => {
+                Debug.LogError("Error->" + str);
+            });
                                     break;
                             }
                             break;
